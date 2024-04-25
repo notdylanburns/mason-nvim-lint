@@ -5,6 +5,7 @@ local M = {}
 M.nvimlint_to_package = {
     ["actionlint"] = "actionlint",
     ["ansible_lint"] = "ansible_lint",
+    ["asl_validator"] = "asl-validator",
     ["buf_lint"] = "buf",
     ["buildifier"] = "buildifier",
     ["cfn_lint"] = "cfn-lint",
